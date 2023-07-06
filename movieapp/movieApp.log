@@ -1,0 +1,1 @@
+2023-07-05 10:08:16.908  INFO 24816 --- [kafka-producer-network-thread | producer-1] org.apache.kafka.clients.NetworkClient   : [Producer clientId=producer-1] Node 0 disconnected.
